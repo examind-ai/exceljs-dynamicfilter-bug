@@ -1,6 +1,6 @@
 # ExcelJS Dynamic Filter Bug
 
-Demonstrate a bug where ExcelJS cannot read a dynamic filter in a table.
+Demonstrate a bug where ExcelJS cannot read a dynamic filter in a table. This repo was generated to support this issue: https://github.com/exceljs/exceljs/issues/2972
 
 ## Steps to Reproduce
 
